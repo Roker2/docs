@@ -631,6 +631,7 @@ query
 * blockedInfo [object]**?** – ["Модель блокировки"](#user-content-модель-релиза)
 * playlist [array[object]]**?** – Список из ["Модель серии"](#user-content-модель-серии)
 * torrents [array[object]]**?** – Список из ["Модель торрента"](#user-content-модель-торрента)
+* url - <host>/release/ + code + .html
 
 ##### Модель серии
 ```
